@@ -39,7 +39,7 @@
 # Running the app
 1. Clone the repository: git clone https://github.com/Spsonusingh/ECommerce-Application-Backend
 2. Import the project into STS:
-  - Click File > Import...
+  - Click File > Import....
   - Select Maven > Existing Maven Projects and click Next
   - Browse to the project directory and click Finish
 3. Update the values in application.properties with your MySQL database connection details.
